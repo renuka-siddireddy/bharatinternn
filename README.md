@@ -29,11 +29,11 @@ Since this repository contains multiple HTML files, GitHub may show **“File no
 Method 1: Using GitHub Pages (Recommended)
 After enabling GitHub Pages, open files using this format:
 for portifolio:
-https://renuka_siddireddy.github.io/<repository-name>/myportfolio.html
+https://renuka-siddireddy.github.io/bharatinternn/myportfolio.html
 for weather project:
-https://renuka_siddireddy.github.io/bharat-intern/weather.html
+https://renuka-siddireddy.github.io/bharatinternn/weather.html
 for netflix homepage:
-https://renuka_siddireddy.github.io/bharat-intern/netflix.html
+https://renuka-siddireddy.github.io/bharatinternn/netflix.html
 
 To view a project:
 1. Click on any `.html` file in the repository
