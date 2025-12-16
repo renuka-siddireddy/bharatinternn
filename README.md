@@ -26,6 +26,14 @@ To gain hands-on experience in web development by building small, functional pro
 
 ##  How to View the Projects
 Since this repository contains multiple HTML files, GitHub may show **“File not found”** when opening the repo directly.
+Method 1: Using GitHub Pages (Recommended)
+After enabling GitHub Pages, open files using this format:
+for portifolio:
+https://renuka_siddireddy.github.io/<repository-name>/myportfolio.html
+for weather project:
+https://renuka_siddireddy.github.io/bharat-intern/weather.html
+for netflix homepage:
+https://renuka_siddireddy.github.io/bharat-intern/netflix.html
 
 To view a project:
 1. Click on any `.html` file in the repository
